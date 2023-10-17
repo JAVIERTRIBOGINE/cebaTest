@@ -1,0 +1,9 @@
+<br>
+<br>
+<input type="text" [(ngModel)]="query" (ngModelChange)="querySubject.next($event)">
+<br>
+<br>
+<div *ngFor="let user of users">
+    {{ user.email }}
+</div>
+
