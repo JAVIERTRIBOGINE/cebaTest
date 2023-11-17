@@ -38,6 +38,10 @@ export class ExerciceComponent implements OnDestroy {
   // FIRST COMMIT
   // *************************
 
+    // *************************
+  // SECOND COMMIT
+  // *************************
+
   // *******************
   // exercise code
   // *******************
