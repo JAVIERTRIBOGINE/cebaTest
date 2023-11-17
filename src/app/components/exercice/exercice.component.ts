@@ -34,6 +34,10 @@ export class ExerciceComponent implements OnDestroy {
     this.onDestroy$.next(true);
   }
 
+  // *************************
+  // FIRST COMMIT
+  // *************************
+
   // *******************
   // exercise code
   // *******************
